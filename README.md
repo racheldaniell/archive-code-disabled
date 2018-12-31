@@ -1,5 +1,5 @@
 README
-project: Metadata and Torture
+project: Metadata of Torture
 
 About the Project
 
